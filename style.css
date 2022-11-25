@@ -5,3 +5,11 @@ tr:nth-child(even) {
 h2 {
   padding-top: 20px;
 }
+
+.container {
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  align-items: center;
+}
